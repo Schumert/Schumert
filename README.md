@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img align="left" alt="Schumert's Github Stats" src="https://github-readme-stats-mu-ashy-89.vercel.app/api?username=schumert&show_icons=true&hide_border=true"/>
+[![Schumert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schumert)](https://github.com/Schumert/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
