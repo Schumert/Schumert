@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Schumert/Schumert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align = "left" alt="Schumert's Github Stats" src = "github-readme-stats-gamma-vert-83.vercel.app/api?username=Schumert&show_icons=true&hide_border=true"/>
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
