@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-<img align="left" alt="Schumert's Github Stats" src="https://github-readme-stats-gamma-vert-83.vercel.app/api?username=Schumert&show_icons=true&hide_border=true"/>
+<img align="left" alt="Schumert's Github Stats" src="https://github-readme-stats-git-master-schumerts-projects.vercel.app
+/api?username=Schumert&show_icons=true&hide_border=true"/>
 <!--
 Here are some ideas to get you started:
 
