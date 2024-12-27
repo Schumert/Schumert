@@ -6,7 +6,7 @@
 #
 <p align="center">
   <a href="https://github.com/Schumert">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schumert&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schumert&theme=cobalt2 " />
   </a>
 </p>
 
