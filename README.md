@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<details>
-<img align="left" alt="Schumert's Github Stats" src="https://github-readme-stats-lq9y5yprt-schumerts-projects.vercel.app/api?username=Schumert&show_icons=true&hide_border=true"/>
-</details>
+
+<img align="left" alt="Schumert's Github Stats" src="https://github-readme-stats-lq9y5yprt-schumerts-projects.vercel.app"/>
+
 <!--
 Here are some ideas to get you started:
 
