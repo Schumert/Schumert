@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img align="left" alt="Schumert's Github Stats" src="https://github-readme-stats-o3lb.vercel.app
+<img align="left" alt="Schumert's Github Stats" src="https://github-readme-stats-o3lb.vercel.app/
 api?username=Schumert&show_icons=true&hide_border=true"/>
 
 <!--
