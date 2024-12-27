@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Schumert&show_icons=true&theme=holi&hide_border=true" />
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert&show_icons=true&theme=holi&hide_border=true" />
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Schumert&show_icons=true&theme=transparent&hide_border=true" />
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert&show_icons=true&theme=transparent&hide_border=true" />
 <!--
 Here are some ideas to get you started:
 
