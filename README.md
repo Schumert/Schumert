@@ -2,7 +2,7 @@
 
 
 <img alt="Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Schumert&show_icons=true&theme=transparent&hide_border=true" />
-<img alt="Most Used Languages" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert&show_icons=true&theme=transparent&hide_border=true" />
+<img alt="Most Used Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert&show_icons=true&theme=transparent&hide_border=true" />
 <!--
 Here are some ideas to get you started:
 
