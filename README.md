@@ -2,7 +2,7 @@
 
 
 <img alt= "My Stats" src="https://github-readme-stats.vercel.app/api?username=Schumert&show_icons=true&theme=transparent" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert)](https://github.com/Schumert/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert" />
 <!--
 Here are some ideas to get you started:
 
