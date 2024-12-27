@@ -2,7 +2,7 @@
 
 <strong>- Me? I'm a humble computer wizard. Take a look at my wares! </strong>
 
-<strong>- You shall find plenty of <em> <sup>Video Game stuff</sup> </em> here. </strong>
+<strong>- You shall find plenty of <em> <sup>Video Game stuff</sup> </em> here and little bit of others. </strong>
 
 <strong>- Want't to play my games? I shall teleport you -> 🌀 <a href ="https://schumert.itch.io"> Click to Teleport </a> 🌀 </strong>
 #
