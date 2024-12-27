@@ -1,13 +1,24 @@
-## <code> Hello there, weary traveler 🧙‍♂️ </code>
-<strong>Me? I'm a humble computer wizard. Take a look at my wares! </strong>
+## <code> Hello there, weary traveler 🧙‍♂️ </code> 
 
-<strong> Thou shall find plenty of <em> <sup>Video Game stuff</sup> </em> here. </strong>
+<strong>- Me? I'm a humble computer wizard. Take a look at my wares! </strong>
+
+<strong>- Thou shall find plenty of <em> <sup>Video Game stuff</sup> </em> here. </strong>
+#
 <p align="center">
-<a href = "https://github.com/Schumert"> 
-<img alt="Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Schumert&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-</a>
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert&show_icons=true&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Schumert">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schumert&theme=transparent" />
+  </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/Schumert">
+    <img src="https://github-readme-stats.vercel.app/api?username=Schumert&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=Stats" style="width: 48%; min-width: 300px; " />
+  </a>
+  <a href="https://github.com/Schumert">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schumert&show_icons=true&theme=transparent&hide_border=true" style="width: 28%; min-width: 300px;" />
+  </a>
+</div>
+
 <!--
 Here are some ideas to get you started:
 
